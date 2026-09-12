@@ -1,60 +1,119 @@
-# :rocket: # Roblox LARP Tools
+<div align="center">
+  
+  <img src="icon.png" alt="Roblox LARP Tools Logo" width="180"/>
 
-> A powerful, lightweight Chrome extension packed with utility tools, profile customization features, and web enhancements for Roblox.
+  # 🚀 Roblox LARP Tools
 
-![Roblox LARP Tools Preview](icon.png)
+  **A powerful, lightweight browser extension for Roblox customization, utilities & visual enhancements.**
 
-**Roblox LARP Tools** is designed for players who want ultimate control over their browser experience. From visual profile customizations to server utilities, this extension provides a collection of fast, easy-to-use tools that require absolutely no complicated setup.
+  [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](#)
+  [![Platform](https://img.shields.io/badge/Platform-Chrome_Extension-green.svg)](#)
+  [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
 
----
+  [Features](#-features) • [Installation](#-installation) • [Other Tools](#-other-tools) • [Disclaimer](#-important-notice)
 
-## :sparkles: Features
-
-### :performing_arts: Profile Customization
-Stand out (visually) with customizable badges and effects:
-* **Fake Verified Badge:** Add the elusive blue checkmark to your profile.
-* **Premium & Staff Badges:** Display Premium or Roblox Staff icons.
-* **Custom Visual Effects:** Enhance your profile's aesthetic locally.
-
-### :bar_chart: Visual Statistics Tools
-Flex your stats on your screen:
-* **Followers Counter:** Set your follower count to any number (e.g., 10M, 500K).
-* **Robux Display:** Change your top-bar Robux balance visually.
-* **Client-Side Modifications:** Instantly tweak profile numbers without refreshing.
-
-### :earth_americas: Server Utilities
-* **Empty Server Finder:** Quickly locate and join servers with low player counts.
-* **Fast Server Browsing:** Navigate through server lists efficiently.
-
-### :warning: Fun & Entertainment
-* **Fake Ban Screen Generator:** Prank your friends with a realistic account deletion screen.
-* **Interface Tweaks:** Modify the Roblox UI for fun and personalized browsing.
+</div>
 
 ---
 
-## :package: Installation
+## ✨ What is Roblox LARP Tools?
 
-Since this is a developer tool, you can install it directly from the source code in just a few seconds:
+**Roblox LARP Tools** is a lightweight Chrome extension built for Roblox players, developers, and enthusiasts who want to completely customize their local browser experience. 
 
-1. **Download** this repository as a ZIP file and extract it to a folder on your computer.
-2. Open Google Chrome and type `chrome://extensions/` in your address bar.
-3. Toggle **Developer Mode** ON (top right corner).
-4. Click the **Load unpacked** button (top left).
-5. Select the folder where you extracted the files.
-6. *Done! The extension is now active on Roblox.*
+Whether you want to modify your profile visuals, find empty servers in seconds, or just have some fun with interface effects, LARP Tools brings a collection of small but powerful features together in one place.
+
+⚡ **Fast.** 🪶 **Lightweight.** 🎯 **Built for Roblox.**
 
 ---
 
-## :bulb: Why Choose Roblox LARP Tools?
+## 🎭 Features
 
-* :zap: **Lightweight & Fast:** Doesn't slow down your browser or Roblox page load times.
-* :mouse_three_button: **One-Click Access:** A simple, clean control panel to toggle features instantly.
-* :tools: **Built for Enthusiasts:** Designed by developers, for the Roblox community.
+### 👤 Profile Customization
+Customize how Roblox profiles appear locally on your screen.
+*   ✅ **Fake Verified Badge**
+*   🛡️ **Fake Roblox Staff Badge**
+*   💎 **Fake Premium Badge**
+*   🎨 **Custom Profile Visual Effects**
+
+### 📊 Visual Statistics
+Modify profile stats for visual, entertainment, or screenshot purposes.
+*   👥 **Fake Followers Counter**
+*   💰 **Fake Robux Display**
+*   🔢 **Customizable Profile Numbers**
+
+### 🌎 Server Utilities
+Tools designed to make browsing and navigating Roblox servers a breeze.
+*   🔍 **Empty Server Finder**
+*   ⚡ **Quick Server Navigation**
+*   🌐 **Fast Server Browsing**
+
+### 😂 Fun & Entertainment
+Add some extra chaos or prank your friends with your browser experience.
+*   🚫 **Fake Ban Screen Generator**
+*   🎭 **Prank Profile Features**
+*   🖼️ **Visual Interface Tweaks**
 
 ---
 
-## Important Disclaimer
+## 📦 Installation
 
-**Please Note:** All profile modifications, badges, follower counts, Robux displays, and similar features are **visual, client-side effects only**. 
+Getting started takes less than a minute. No complicated setups.
 
-They only appear on your screen and do not modify official Roblox servers, your actual account data, real Robux balances, or official verification status. This tool does not violate Roblox's Terms of Service as it does not exploit or alter server-side data.
+1. **Download:** Download this repository as a `.zip` file.
+2. **Extract:** Extract the downloaded ZIP to any easily accessible folder on your computer.
+3. **Open Extensions:** Type `chrome://extensions/` in your Chrome address bar and hit enter.
+4. **Developer Mode:** Toggle on **Developer mode** in the top-right corner of the extensions page.
+5. **Load Extension:** Click the **Load unpacked** button and select the folder you extracted in Step 2.
+
+> 🎉 **And you're done!** Pin the extension to your browser taskbar for one-click access.
+
+---
+
+## 🧰 Other Tools
+
+Looking for more Roblox utilities? Check out our other projects:
+
+| Tool | Description | Link |
+|------|-------------|------|
+| 🎮 **Game Copier** | Copy Roblox game content with an external utility. | [Open Game Copier](#) |
+| 🎙️ **VC Unlocker** | Utilities related to Roblox Voice Chat. | [Open VC Unlocker](#) |
+| 👥 **Group Botter** | Automated group member management utility. | [Open Group Botter](#) |
+| 📈 **Follower Bot** | Automated profile follower utility. | [Open Follower Bot](#) |
+
+*(Note: Ensure you insert the correct links in the markdown file).*
+
+---
+
+## ⚠️ Important Notice
+
+> **Roblox LARP Tools does NOT modify Roblox's servers or official account data.**
+
+All features provided by this extension (Fake badges, Robux, followers, Premium status, verification, etc.) are **client-side visual effects only**. 
+
+**They DO NOT change:**
+*   ❌ Your actual Robux balance
+*   ❌ Your official Roblox account data
+*   ❌ Your actual verification/Premium status
+*   ❌ Your real follower count
+*   ❌ Roblox server-side data
+
+*The changes are only visible on your own screen within the supported browser experience.*
+
+---
+
+## 💡 Why LARP Tools?
+
+*   🎨 **Customize:** Give Roblox profiles your own aesthetic.
+*   ⚡ **Fast:** Lightweight tools designed for zero-lag interaction.
+*   🔧 **Simple:** Absolutely no complex configuration required.
+*   😂 **Fun:** Perfect for screenshots, videos, and pranks.
+
+---
+
+## 📜 License
+
+This project is provided for **educational, experimental, and entertainment purposes only**. Please use the extension responsibly and respect Roblox's Terms of Use and community guidelines.
+
+<div align="center">
+  <b>Enhance your Roblox browser experience today.</b>
+</div>
