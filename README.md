@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="icon.png" alt="Roblox LARP Tools Logo" width="180"/>
+  <img src="icon.png" alt="Roblox LARP Tools Logo" width="100%"/>
 
   # 🚀 Roblox LARP Tools
 
